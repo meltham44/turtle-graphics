@@ -9,3 +9,5 @@ A program in which graphics can be drawn using a turtle. Written in Java.
 * Clone the repo locally and place the directory in your IDE workspace directory.
 * Open your IDE and add LBUGraphics.jar to your Java Build Path.
 * Run MainClass.java.
+## Acknowledgements
+* Duncan Mullier for making LBUGraphics.jar.
